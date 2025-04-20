@@ -22,6 +22,21 @@
 
 ---
 
+### Let's Connect
+
+- **Email:** [mrsniper1388@gmail.com](mailto:mrsniper1388@gmail.com)  
+- **LinkedIn:** [James Patrick Sanchez](https://www.linkedin.com/in/james-patrick-sanchez-360552342)
+
+---
+
+### Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sanchezjamespatrick)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/12HjyJW6DcA)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Pattyyy_30)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/8r8vcQYg)
+
+---
+
 ## 🧰 Tech Stack Overview
 
 ```txt
