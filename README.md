@@ -1,18 +1,13 @@
-<h1 align="center">Hi, I'm Patrick Programmer</h1>
-<p align="center">
-  Full-Stack Developer | Real-Time Systems Enthusiast | UI/UX Designer
-</p>
 
----
 
-### About Me
+### 💫 About Me
 
-I'm a dedicated and detail-oriented full-stack developer with a passion for building real-time, scalable web applications. With experience leading capstone projects and academic systems, I focus on delivering clean code, efficient backends, and intuitive user experiences.
+I'm a backend-focused full-stack developer passionate about building scalable web apps and real-time systems. From multiplayer games to academic platforms, I thrive on designing powerful server logic and seamless client integration.
 
-- **Strong leadership** in collaborative coding environments  
-- **Clean UI design** tailored for accessibility and usability  
-- **Proven performance** in real-time multiplayer applications  
-- **Passionate** about solving complex problems with elegant solutions  
+- Skilled in **WebSocket-based real-time communication**  
+- Strong grasp of **API architecture** and **database design**  
+- Lead developer on academic systems and multiplayer games  
+- Dedicated to **clean code**, performance, and maintainability
 
 ---
 
@@ -24,48 +19,54 @@ I'm a dedicated and detail-oriented full-stack developer with a passion for buil
 **Backend:**  
 `Node.js` • `Express` • `Flask (Python)` • `Java`
 
-**Database:**  
+**Databases:**  
 `MongoDB` • `MySQL` • `PostgreSQL`
 
-**Tools & Infrastructure:**  
-`Socket.IO` • `Redis` • `Docker` • `PM2` • `NGINX` • `ESP32`
+**Real-Time & Tools:**  
+`Socket.IO` • `Redis` • `PM2` • `Git` • `GitHub Actions`
 
 ---
 
 ### Featured Projects
 
-#### ⚡️ Elemath
-A multiplayer math quiz game designed for elementary students, aligned with the **Matatag 6** curriculum.  
-Includes RFID-based attendance tracking and mobile app alerts for parents.  
-**Tech:** Vue.js, Node.js, Redis, ESP32, RFID
+#### ⚡️ Elemath  
+A multiplayer math quiz game for elementary students, aligned with the **Matatag 6** curriculum.  
+Features real-time gameplay, squad modes, teacher dashboards, and a ranking system.  
+**Tech:** Node.js, Socket.IO, Redis, Vue.js
 
-#### ✨ Mathenic
-A competitive real-time math game with custom lobbies and ranking system.  
-Built for fun, speed, and challenge.  
-**Tech:** Vue.js, Node.js, WebSocket (Socket.IO)
+#### ✨ Mathenic  
+A fast-paced real-time math battle game with lobbies, matchmaking, and rankings.  
+Built to deliver speed, competition, and smooth gameplay.  
+**Tech:** Node.js, WebSocket (Socket.IO), Vue.js
 
-#### 🗓️ Schedule Maker – DHVSU Sto. Tomas
-A custom-built schedule generator using VB.NET and MySQL to optimize academic timetables.  
-Serves hundreds of students and faculty.
+#### 🗓️ Schedule Maker – DHVSU Sto. Tomas  
+A class scheduling system for students and faculty, built to automate and optimize academic timetables.  
+**Tech:** VB.NET, MySQL
 
 ---
 
 ### Achievements
 
-- **2nd Place Winner** – CodeFest 2023 (DHVSU IT Day)  
-- Lead Developer on multiple academic systems  
-- Experienced in both hardware-integrated and web-based solutions
+🏆 **2nd Place Winner** – CodeFest 2023 (DHVSU IT Day)  
+🎮 Lead backend dev for multiple academic and game platforms  
+💡 Experienced in both collaborative and solo development projects
 
 ---
 
 ### Let's Connect
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Email:** [mrsniper1388@gmail.com](mailto:mrsniper1388@gmail.com)  
+- **LinkedIn:** [James Patrick Sanchez](https://www.linkedin.com/in/james-patrick-sanchez-360552342)
+
+---
+
+### Languages & Tools
+
+🖥️ `C++` • `JavaScript` • `Node.js` • `Java` • `Python (Flask)` • `VB.NET`  
+💾 **Database:** `MongoDB`
 
 ---
 
 <p align="center">
-  <em>“Great code is not written — it’s engineered with care.”</em>
+  <em>“Behind every great interface is an even better backend.”</em>
 </p>
