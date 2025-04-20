@@ -1,6 +1,5 @@
 
-
-### 💫 About Me
+###💫 About Me
 
 I'm a backend-focused full-stack developer passionate about building scalable web apps and real-time systems. From multiplayer games to academic platforms, I thrive on designing powerful server logic and seamless client integration.
 
@@ -23,7 +22,7 @@ I'm a backend-focused full-stack developer passionate about building scalable we
 `MongoDB` • `MySQL` • `PostgreSQL`
 
 **Real-Time & Tools:**  
-`Socket.IO` • `Redis` • `PM2` • `Git` • `GitHub Actions`
+`Socket.IO` • `Git` 
 
 ---
 
@@ -32,12 +31,12 @@ I'm a backend-focused full-stack developer passionate about building scalable we
 #### ⚡️ Elemath  
 A multiplayer math quiz game for elementary students, aligned with the **Matatag 6** curriculum.  
 Features real-time gameplay, squad modes, teacher dashboards, and a ranking system.  
-**Tech:** Node.js, Socket.IO, Redis, Vue.js
+**Tech:** Node.js, Socket.IO, Vue.js , Mongodb, Express 
 
 #### ✨ Mathenic  
 A fast-paced real-time math battle game with lobbies, matchmaking, and rankings.  
 Built to deliver speed, competition, and smooth gameplay.  
-**Tech:** Node.js, WebSocket (Socket.IO), Vue.js
+**Tech:** Node.js, WebSocket (Socket.IO), Vue.js 
 
 #### 🗓️ Schedule Maker – DHVSU Sto. Tomas  
 A class scheduling system for students and faculty, built to automate and optimize academic timetables.  
@@ -62,8 +61,14 @@ A class scheduling system for students and faculty, built to automate and optimi
 
 ### Languages & Tools
 
-🖥️ `C++` • `JavaScript` • `Node.js` • `Java` • `Python (Flask)` • `VB.NET`  
-💾 **Database:** `MongoDB`
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat&logo=visual-basic&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
