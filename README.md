@@ -1,67 +1,198 @@
-<img src="./banner.png" alt="banner" width="100%">
+<p align="center">
+  <img src="./banner.png" alt="James Patrick Sanchez Banner" width="100%" />
+</p>
 
----
-
-## 🌟 About Me
-
-I’m **James Patrick Sanchez**, a passionate software developer and BSIT student at **Don Honorio Ventura State University (DHVSU)**. I specialize in **full-stack development, real-time systems, and performance-oriented backend architectures**.  
-
-- 🚀 Experienced in **Node.js, Vue.js, MongoDB, Socket.IO, Prisma, BullMQ**, and microservice patterns.  
-- 👨‍💻 Proficient in **Java, Python (Flask), C++, JavaScript, PostgreSQL**, and more.  
-- 🧩 Lead programmer in multiple school projects, hackathons, and competitions.  
-- ⚙️ Focused on **WebSockets, real-time multiplayer systems, queue-based processing**, and **UI/UX design**.  
-- ✨ I aim for **simplicity, speed, and maintainable code** in all projects.
-
----
-
-## 🛠️ Languages & Tools
+<h1 align="center">Hi, I'm James Patrick Sanchez 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,vue,nodejs,express,mongodb,prisma,bullmq,redis,java,cpp,python,postgres,git,github,vscode,canva,docker,nginx,pm2,socketio" />
+  <strong>Backend Software Engineer • Full-Stack Developer • BSIT Student</strong>
+</p>
+
+<p align="center">
+  I build scalable backend systems, real-time applications, and production-ready SaaS projects using modern web technologies.
+</p>
+
+<p align="center">
+  <a href="mailto:mrsniper1388@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/james-patrick-sanchez-360552342">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/JamesPatrick30">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack Overview
+# 🚀 About Me
 
-**Languages & Frameworks**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white)
+🎓 BS Information Technology Student graduating in **August 2026**
 
-**Databases & ORMs**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redhat&logoColor=white)
+💼 Currently looking for opportunities as a
 
-**DevOps, Tools & Real-time**  
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=npm&logoColor=white)
+- Backend Software Engineer
+- Software Engineer
+- Full-Stack Developer
 
-**Version Control & Design**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+I enjoy building applications that solve real-world problems with a strong focus on:
+
+- ⚡ High Performance
+- 🔒 Security
+- 📈 Scalability
+- 🧩 Clean Architecture
+- 🌐 Real-time Communication
+
+My goal is to write software that is reliable, maintainable, and ready for production.
 
 ---
 
-## 📬 Let's Connect
+# ⭐ Featured Projects
 
-- **Email:** [mrsniper1388@gmail.com](mailto:mrsniper1388@gmail.com)  
-- **LinkedIn:** [James Patrick Sanchez](https://www.linkedin.com/in/james-patrick-sanchez-360552342)  
+## 🚀 LiveSales
 
-**Social Media**  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sanchezjamespatrick)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/12HjyJW6DcA)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Pattyyy_30)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/8r8vcQYg)
+A modern cloud Point-of-Sale platform designed for restaurants and small businesses.
+
+### Features
+
+- Real-time order tracking using Socket.IO
+- Role-based authentication
+- Dashboard analytics
+- Demo Mode
+- JWT Authentication
+- Responsive dashboard
+
+**Tech Stack**
+
+NestJS • React • PostgreSQL • Prisma • Socket.IO • TypeScript
+
+> 🔗 Live Demo: *(Add your link)*
+
+> 💻 Repository: *(Add repository link)*
+
+---
+
+## 📈 PulseAPI
+
+A real-time API monitoring platform that tracks uptime, incidents, and service health.
+
+### Features
+
+- Real-time monitoring
+- Incident management
+- Scheduler
+- Live dashboard
+- WebSocket updates
+- Authentication
+- Demo Mode
+
+**Tech Stack**
+
+NestJS • React • PostgreSQL • Prisma • Socket.IO • TypeScript
+
+> 🔗 Live Demo: *(Add your link)*
+
+> 💻 Repository: *(Add repository link)*
+
+---
+
+## 🔗 SnapURL
+
+A secure URL shortener built with modern backend architecture.
+
+### Features
+
+- Short URLs
+- QR Code Generation
+- Expiration Dates
+- Analytics
+- JWT Authentication
+- Dashboard
+- Demo Mode
+
+**Tech Stack**
+
+NestJS • React • PostgreSQL • Prisma • TypeScript
+
+> 🔗 Live Demo: *(Add your link)*
+
+> 💻 Repository: *(Add repository link)*
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,nestjs,react,vue,express,postgres,mongodb,prisma,redis,docker,git,github,vscode,java,python,cpp&perline=9"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Distributed Systems
+- Microservices
+- Cloud Deployment
+- Docker
+- CI/CD
+- Performance Optimization
+- Testing
+- Scalable Backend Architecture
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JamesPatrick30&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesPatrick30&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JamesPatrick30&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+**mrsniper1388@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/james-patrick-sanchez-360552342
+
+🌐 **GitHub**
+
+https://github.com/JamesPatrick30
+
+📸 **Instagram**
+
+https://www.instagram.com/sanchezjamespatrick
+
+💬 **Discord**
+
+https://discord.gg/8r8vcQYg
+
+✈️ **Telegram**
+
+https://t.me/Pattyyy_30
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile! ⭐
+
+If you like my projects, feel free to give them a ⭐ and connect with me.
+
+</p>
