@@ -67,9 +67,9 @@ A modern cloud Point-of-Sale platform designed for restaurants and small busines
 
 NestJS • React • PostgreSQL • Prisma • Socket.IO • TypeScript
 
-> 🔗 Live Demo: *(Add your link)*
+> 🔗 Live Demo: https://turbo-livesales.onrender.com
 
-> 💻 Repository: *(Add repository link)*
+> 💻 Repository: https://github.com/JamesPatrick30/turbo-livesales
 
 ---
 
@@ -91,9 +91,9 @@ A real-time API monitoring platform that tracks uptime, incidents, and service h
 
 NestJS • React • PostgreSQL • Prisma • Socket.IO • TypeScript
 
-> 🔗 Live Demo: *(Add your link)*
+> 🔗 Live Demo: https://pulseapi-qig6.onrender.com
 
-> 💻 Repository: *(Add repository link)*
+> 💻 Repository: https://github.com/JamesPatrick30/PulseAPI
 
 ---
 
@@ -115,9 +115,9 @@ A secure URL shortener built with modern backend architecture.
 
 NestJS • React • PostgreSQL • Prisma • TypeScript
 
-> 🔗 Live Demo: *(Add your link)*
+> 🔗 Live Demo: https://snapurl-sx1f.onrender.com
 
-> 💻 Repository: *(Add repository link)*
+> 💻 Repository: https://github.com/JamesPatrick30/SnapURL
 
 ---
 
@@ -147,14 +147,6 @@ NestJS • React • PostgreSQL • Prisma • TypeScript
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JamesPatrick30&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesPatrick30&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JamesPatrick30&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -165,7 +157,7 @@ NestJS • React • PostgreSQL • Prisma • TypeScript
 
 📧 **Email**
 
-**mrsniper1388@gmail.com**
+**jamespatricksanchez60@gmail.com**
 
 💼 **LinkedIn**
 
